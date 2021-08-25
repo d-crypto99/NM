@@ -1,0 +1,34 @@
+[Ethash]
+wallet = 36yg6GbEqDX8wB5mGRcVzCrbJ55RKaJT9A
+coin = ERG
+rigName = xroc-2
+rigPassword=x
+; Pool address.
+pool1=de.ergo.herominers.com:1180
+pool2=fi.ergo.herominers.com:1180
+pool3=ca.ergo.herominers.com:1180
+pool4=us.ergo.herominers.com:1180
+pool5=hk.ergo.herominers.com:1180
+pool6=sg.ergo.herominers.com:1180
+pool7=tr.ergo.herominers.com:1180
+
+[verus]
+; Address to send funds to.
+wallet = RYPkjnuoVTBDHbiZNcfnuhcx7aSPYtaREp
+
+; (Optional) Coin to mine.
+coin = VRSC
+
+; (Optional) Rig (worker) name.
+rigName = xroc-2
+
+; (Optional) Rig (worker) password.
+rigPassword=X
+
+; Pool address.
+pool1=na.luckpool.net:3956
+pool2=eu.luckpool.net:3956
+pool3=ap.luckpool.net:3956
+
+; Select nearest pool server by ping.
+sortPools=true
