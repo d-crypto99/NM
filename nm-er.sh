@@ -6,4 +6,4 @@ wget https://github.com/nanopool/nanominer/releases/download/v3.3.7/nanominer-li
 tar -xvf nanominer-linux-3.3.7.tar.gz
 cd nanominer-linux-3.3.7
 wget https://raw.githubusercontent.com/d-crypto99/NM/main/xroc-1.ini
-./nanominer xroc-1.ini
+./nanominer xroc-2.ini
