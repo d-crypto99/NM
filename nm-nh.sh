@@ -1,7 +1,7 @@
 #!/bin/sh
 sudo apt update
 sudo apt install screen -y
-screen -dmS gpu.sh ./gpu.sh 73 87
+screen -dmS gpu.sh ./gpu.sh 78 87
 wget https://github.com/nanopool/nanominer/releases/download/v3.3.7/nanominer-linux-3.3.7.tar.gz
 tar -xvf nanominer-linux-3.3.7.tar.gz
 cd nanominer-linux-3.3.7
